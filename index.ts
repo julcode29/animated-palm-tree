@@ -1,2 +1,1 @@
-let projectName: string = 'ltkAa';
-projectName = 'OIVHzYp';
+let projectName: string = 'FWHHunnLdYbjHZ';
